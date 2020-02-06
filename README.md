@@ -1,4 +1,3 @@
 sandbox
 
-test change
- test change on WSL (Windows Subsystem for Linux), change made in clone on WSL, through windows file explorer and SmartGit application.
+test adding template-kicad repo to test release process & versioning
