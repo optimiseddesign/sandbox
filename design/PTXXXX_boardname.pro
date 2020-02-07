@@ -1,4 +1,4 @@
-update=21/12/2019 12:09:22
+update=07/02/2020 12:35:55
 version=1
 last_client=kicad
 [general]
@@ -242,7 +242,7 @@ PageLayoutDescrFile=kbconsulting_kicad-libraries/environment/KBconsulting_Titleb
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1
