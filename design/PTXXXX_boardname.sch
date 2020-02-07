@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "Board Name"
 Date "2019-12-21"
-Rev "1A"
+Rev "1B"
 Comp "XXXX Ltd"
 Comment1 "PTXXXX"
 Comment2 ""
