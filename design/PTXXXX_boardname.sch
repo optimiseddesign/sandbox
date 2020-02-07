@@ -25,4 +25,6 @@ F 3 "https://www.infineon.com/dgdl/ir4302.pdf?fileId=5546d462533600a4015355d602a
 	1    4650 3250
 	1    0    0    -1  
 $EndComp
+Text Notes 7100 2500 0    50   ~ 0
+Text added for 1B release
 $EndSCHEMATC
