@@ -1,0 +1,1 @@
+test adding a random /manufacturing/ file to an existing release 1.1 1A to see how this is coped with with this branch/release arrangement
